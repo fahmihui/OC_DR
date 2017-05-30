@@ -1,0 +1,9 @@
+MSE comparison
+http://www.pyimagesearch.com/2014/09/15/python-compare-two-images/
+
+canny edge detection
+http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html
+
+template matching
+https://pythonspot.com/en/object-detection-with-templates/
+http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html
